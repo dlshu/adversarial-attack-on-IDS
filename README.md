@@ -1,6 +1,8 @@
 # adversarial-attack-on-IDS
 Source code for the paper 'Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning'.
 
+The code is written and tested in Python 3.6 and PyTorch 1.2.0.
+
 Requires the network traffic flow data file 'MachineLearningCSV.zip' from the CICIDS 2017 dataset (available for free at https://www.unb.ca/cic/datasets/ids-2017.html).
 
 To generate the adversarial attack using the Gen-AAL algorithm:
