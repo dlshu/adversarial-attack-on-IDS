@@ -1,5 +1,5 @@
 # adversarial-attack-on-IDS
-source code for the paper 'Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning'
+Source code for the paper 'Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning'.
 
 Requires the network traffic flow data file 'MachineLearningCSV.zip' from the CICIDS 2017 dataset.
 
