@@ -1,7 +1,7 @@
 # adversarial-attack-on-IDS
 Source code for the paper 'Generative Adversarial Attacks Against Intrusion Detection Systems Using Active Learning'.
 
-Requires the network traffic flow data file 'MachineLearningCSV.zip' from the CICIDS 2017 dataset.
+Requires the network traffic flow data file 'MachineLearningCSV.zip' from the CICIDS 2017 dataset (available for free at https://www.unb.ca/cic/datasets/ids-2017.html).
 
 To generate the adversarial attack using the Gen-AAL algorithm:
 1. Run 'data_preprocessing.py' to generate the data file 'NBx.npy' and NBy.npy.
