@@ -12,4 +12,4 @@ To generate the adversarial attack using the Gen-AAL algorithm:
 4. Run 'attack_Gen-AAL.py' to generate adversarial attacks using the Gen-AAL algorithm and see the attack success rate.
 5. For performance comparison, run 'attack_DFAL.py' to generate adversarial attacks using the DFAL algorithm.
 
-The Gen-AAL algorithm will be improved in future updates.
+The Gen-AAL algorithm will be improved in the future updates.
